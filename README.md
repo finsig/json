@@ -1,3 +1,3 @@
 # JSON
 
-A description of this package.
+Swift implementation of the [JSON Schema specification](https://json-schema.org/specification).
